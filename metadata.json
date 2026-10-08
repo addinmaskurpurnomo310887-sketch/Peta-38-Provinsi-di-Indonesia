@@ -1,0 +1,7 @@
+{
+  "name": "Petualangan Peta Indonesia - 38 Provinsi",
+  "description": "Media pembelajaran interaktif untuk mengenal 38 provinsi Indonesia melalui peta, eksplorasi, dan permainan edukatif untuk siswa kelas 5 SD dan IFP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
